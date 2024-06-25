@@ -10,9 +10,9 @@ setup(
 
 name = "demo",
 
-version = "0.1",
+version = "1.0",
 
-url = 'https://github.com/snowroll/python-sdk.git',
+url = 'https://github.com/fresher404/check',
 
 long_description = open('README.md').read(),
 
